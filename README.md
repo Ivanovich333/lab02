@@ -1,8 +1,8 @@
 ## Tutorial
 
 ```sh
-❯ export GITHUB_USERNAME=TheIIIrd
-❯ export GITHUB_EMAIL=metexas109@etopys.com
+❯ export GITHUB_USERNAME=Ivanovich333
+❯ export GITHUB_EMAIL=vizgalovyaroslav@gmail.com
 ❯ export GITHUB_TOKEN=dd7144610a582677aa1b5578bac3b4e2a9129928ea4d3bfc5bb22bcc16f58390
 ❯ alias edit=nvim
 ```
@@ -84,9 +84,9 @@ Writing objects: 100% (3/3), 323 bytes | 323.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 remote: 
 remote: Create a pull request for 'master' on GitHub by visiting:
-remote:      https://github.com/TheIIIrd/tp-lab02/pull/new/master
+remote:      https://github.com/Ivanovich333/tp-lab02/pull/new/master
 remote: 
-To github.com:TheIIIrd/tp-lab02.git
+To github.com:Ivanovich333/tp-lab02.git
  * [new branch]      master -> master
 ```
 
@@ -110,20 +110,20 @@ Fast-forward
 ```sh
 ❯ git log 
 commit 255da6c3e2a86fe39db9b9717c9faceb1fb41fd7 (HEAD -> master, origin/master)
-Author: TheIIIrd <metexas109@etopys.com>
-Date:   Sun Apr 21 11:35:22 2024 +0300
+Ivanovich333 <vizgalovyaroslav@gmail.com>
+Date:   Sun May 20 18:29:54 2024 +0300
 
     Create .gitignore
 
 commit aa645c139ab91732fc8a30db89dad87653f327be
-Author: TheIIIrd <metexas109@etopys.com>
-Date:   Sun Apr 21 11:31:23 2024 +0200
+Author: Ivanovich333 <vizgalovyaroslav@gmail.com>
+Date:   Sun May 20 18:30:25 2024 +0300
 
     added TEST.md
 
 commit e122f869f2ef23ac79e85859a9d55c78d36801d5 (origin/main)
-Author: TheIIIrd <metexas109@etopys.com>
-Date:   Sun Apr 21 11:17:41 2024 +0300
+Author: Ivanovich333 <vizgalovyaroslav@gmail.com>
+Date:   Sun May 20 18:31:41 2024 +0300
 
     Initial commit
 ```
